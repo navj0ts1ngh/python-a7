@@ -22,5 +22,5 @@ Explicit Conversion
 # print(c + d)
 
 
-a = int(-34.98)
+a = int(-34.98)  # takecare
 print(a)
